@@ -1,0 +1,4 @@
+
+A DHT11 Class for Arduino
+http://playground.arduino.cc/main/DHT11Lib/
+
